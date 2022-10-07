@@ -1,0 +1,18 @@
+*{
+    overflow-y: hidden;
+    background-color: #99b088;
+}
+
+.img-logo{
+    width: 50px;
+}
+
+.div-form{
+    margin-left: 100px; 
+    align-items: center; 
+    margin-top: 50px;
+}
+
+.form-group{
+    width: 100%;
+}
