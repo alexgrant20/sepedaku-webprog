@@ -62,7 +62,9 @@
 						<td><?= $data['noTelpPenyewa']; ?></td>
 						<td><?= $data['jenisSepeda']; ?></td>
 						<td><?= $data['durasiSewa']; ?></td>
-						<td>Delete</td>
+						<td> 
+						<a href="./controller/delete.php?id=<?= $data['id']; ?>">Delete</a>
+						</td>
 					</tr>
 					<?php } ?>
 				</tbody>
