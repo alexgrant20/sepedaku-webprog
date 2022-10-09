@@ -7,3 +7,4 @@ ANGGOTA KELOMPOK
 
 NOTES
 1. Routing disini tidak bekerja dengan baik sehingga untuk user yang akan mengunakan diharapkan untuk meletakan project ini seperti berikut: /htdocs/sepedaku-webprog/ dengan demikian dapat dipastikan routing akan bekerja dengan baik
+2. Database diberi nama sepedadb
